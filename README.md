@@ -14,6 +14,12 @@
   </a>
 </div>
 <div id="badges2" align="center"><img src="https://komarev.com/ghpvc/?username=aunlaphat&style=flat-square&color=blue" alt="account counter"/></div>
+<h1>
+  hey there :eyes:
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
@@ -29,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" title="NodeMon" alt="NodeMon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
@@ -41,9 +48,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### :woman_technologist: About Me :
 
 **aunlaphat/aunlaphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
