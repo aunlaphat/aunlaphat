@@ -14,7 +14,7 @@
   </a>
 </div>
 <div id="badges2" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=aunlaphat&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
 
