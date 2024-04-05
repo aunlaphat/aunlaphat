@@ -1,7 +1,7 @@
  Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/PLCnext-plcnext-phoenixcontact-plcnexttechnology-gcOg6zLJc0hN6YZ2i4" width="100"/>
 </div>
 
 
