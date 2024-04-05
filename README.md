@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.youtube.com/@aunlaphat">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a>
-    
+ <a href="https://www.facebook.com/aunlaphat.artsuriyong.56?mibextid=LQQJ4d">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 <div id="badges2" align="center"><img src="https://komarev.com/ghpvc/?username=aunlaphat&style=flat-square&color=blue" alt="account counter"/></div>
