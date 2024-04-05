@@ -16,7 +16,7 @@
 <div id="badges2" align="center"><img src="https://komarev.com/ghpvc/?username=aunlaphat&style=flat-square&color=blue" alt="account counter"/></div>
 <div id="text" align="center"><h1>Hi everyone :eyes: </h1><div>
 <div align="center">
-  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="600" height="330"/>
+  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="600" height="360"/>
 </div>
 
 ---
