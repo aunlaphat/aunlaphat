@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="200"/>
 </div>
@@ -14,11 +14,9 @@
   </a>
 </div>
 <div id="badges2" align="center"><img src="https://komarev.com/ghpvc/?username=aunlaphat&style=flat-square&color=blue" alt="account counter"/></div>
-<h1>
-  hey there :eyes:
-</h1>
+<div id="text" align="center"><h1>Hi everyone :eyes</h1><div>
 <div align="center">
-  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="600" height="330"/>
 </div>
 
 ---
