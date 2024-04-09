@@ -1,4 +1,4 @@
-
+<div bg=pink>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="200"/>
 </div>
@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   </div>
-
+</div>
